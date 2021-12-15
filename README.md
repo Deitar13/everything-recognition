@@ -5,7 +5,7 @@
 
 ![котэ](https://user-images.githubusercontent.com/89253911/146261092-3ba73d30-74fb-4d42-9fdc-b453f0b9c0c0.png)
 
-При выключенной камере или ее отсутствии выдает ошибку:
+При выключенной камере или ее отсутствии, выдает ошибку:
 
 ```
 Couldn't find your webcam... Sorry :c
